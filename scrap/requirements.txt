@@ -1,0 +1,63 @@
+appdirs==1.4.4
+atomicwrites==1.4.0
+attrs @ file:///tmp/build/80754af9/attrs_1620827162558/work
+Automat @ file:///tmp/build/80754af9/automat_1600298431173/work
+bcrypt @ file:///C:/ci/bcrypt_1597936263757/work
+Bottleneck==1.3.2
+brotlipy==0.7.0
+certifi==2021.10.8
+cffi @ file:///C:/ci/cffi_1636542074879/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
+constantly==15.1.0
+cryptography @ file:///C:/ci/cryptography_1635348572149/work
+cssselect==1.1.0
+hyperlink @ file:///tmp/build/80754af9/hyperlink_1610130746837/work
+idna @ file:///tmp/build/80754af9/idna_1622654382723/work
+incremental @ file:///tmp/build/80754af9/incremental_1636629750599/work
+iniconfig @ file:///home/linux1/recipes/ci/iniconfig_1610983019677/work
+itemadapter @ file:///tmp/build/80754af9/itemadapter_1626442940632/work
+itemloaders==1.0.4
+jmespath==0.10.0
+lxml @ file:///C:/ci/lxml_1616443455957/work
+mkl-fft==1.3.1
+mkl-random @ file:///C:/ci/mkl_random_1626186184278/work
+mkl-service==2.4.0
+more-itertools @ file:///tmp/build/80754af9/more-itertools_1635423142362/work
+numexpr @ file:///C:/ci/numexpr_1618856738664/work
+numpy==1.21.4
+packaging @ file:///tmp/build/80754af9/packaging_1637314298585/work
+pandas @ file:///C:/ci/pandas_1635488579061/work
+parsel @ file:///C:/ci/parsel_1613041813325/work
+pluggy @ file:///C:/ci/pluggy_1615976358795/work
+Protego @ file:///tmp/build/80754af9/protego_1598657180827/work
+py @ file:///tmp/build/80754af9/py_1607971587848/work
+pyasn1 @ file:///Users/ktietz/demo/mc3/conda-bld/pyasn1_1629708007385/work
+pyasn1-modules==0.2.8
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+PyDispatcher==2.0.5
+PyHamcrest @ file:///tmp/build/80754af9/pyhamcrest_1615748656804/work
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1635333100036/work
+pyparsing @ file:///tmp/build/80754af9/pyparsing_1635766073266/work
+PySocks @ file:///C:/ci/pysocks_1605287845585/work
+pytest==6.2.4
+pytest-runner @ file:///tmp/build/80754af9/pytest-runner_1623663836848/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz==2021.3
+pywin32==228
+queuelib==1.5.0
+requests @ file:///tmp/build/80754af9/requests_1629994808627/work
+Scrapy @ file:///C:/ci/scrapy_1606864804541/work
+Scrapy-UserAgents==0.0.1
+service-identity @ file:///Users/ktietz/demo/mc3/conda-bld/service_identity_1629460757137/work
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+toml @ file:///tmp/build/80754af9/toml_1616166611790/work
+Twisted @ file:///C:/ci/twisted_1636978652719/work
+twisted-iocpsupport @ file:///C:/ci/twisted-iocpsupport_1614804644664/work
+typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1631814937681/work
+Unidecode==1.3.2
+urllib3==1.26.7
+w3lib @ file:///Users/ktietz/demo/mc3/conda-bld/w3lib_1629359764703/work
+win-inet-pton @ file:///C:/ci/win_inet_pton_1605306167264/work
+wincertstore==0.2
+zope.interface @ file:///C:/ci/zope.interface_1625036260333/work
