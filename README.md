@@ -1,9 +1,10 @@
-#**Comment ranker sur Google ? Retroengineering des facteurs de ranking**
+#**Comment ranker sur Google ? Retroengineering des facteurs de ranking à l'exemple des annonces emploi**
+
+![image](https://user-images.githubusercontent.com/32369680/148120962-42c49cc9-c98b-4f3d-b766-eadae22642c8.png)
 
 
-Au paradigme de ce projet figurent l'universalité du scope de données, la performance de la collecte et de leur traitement ;  la solidité du modèle d’analyse.
 
-##**Contexte**
+## **Contexte**
 
 En octobre 202 Google détenait En France, sur le marché du search une part de marché de 91,4% sur desktop(source statscounter GlobalStats).
 
@@ -23,22 +24,23 @@ Très pragmatiquement il s’agit dont d’exploiter ce que les clients cherchen
 · Avec ce triptyque « Organic, Paid, Referral » nous disposons donc des métriques homogènes pour détecter les acteurs (y compris les nouveaux entrants) et évaluer, de manière indiscutable, leur performance. Les milliers d’expressions réellement utilisées sur Google par les clients du produit ou service permettent demesurer très rapidement les sites qui trustent le trafic, donc les ventes.
 
 ## **Ce paradigme a d’autres atouts :**
+Au paradigme de ce projet figurent donc **l'universalité du scope de données, la performance de la collecte et de leur traitement ;  la solidité du modèle d’analyse.** et tout particulièrement :
 · Rapidité de mise en œuvre quelle que soit la langue ou le pays puisque nous recensons les mots clés et expressions de longue traine qui génèrent le trafic et donc l’activité sur une niche précise
 · Solidité du modèle de détection des acteurs fondé sur la position détenue dans le top 100 des résultats de Google sur ce set de mots clés
 · Sans intermédiaire et donc affranchi des problématiques de confidentialité ou de droit d’exploitation des données de base
 · Immédiatement actionnable car permet de lister les firmes pas forcément identifiées avec lesquelles mettre en place un écosystème profitable à tous avec un plan d’action concret
 
-## **Use-Case :**
-
-Offres d'emploi dans le secteur tertiaire en France
 
 ## **Méthodo**
 
-· 4000 requêtes pour sélectionner les mots clés et volumes
-· Nettoyage Statistique
-· Scraping des positions Google sur 4000 requêtes
-· Scraping  de toutes les url => position 100
-· Modélisations, évaluation et sélection des features sur une problématique de classification "Is top 10"
+· 4000 requêtes pour sélectionner les mots clés et volumes cf https://github.com/caroheymes/jedha_final_project/blob/master/keywords_selection.ipynb
+
+· Scraping  de toutes les url => position 100 cf https://github.com/caroheymes/jedha_final_project/tree/master/scrap
+
+· Modélisations, sélection des features : cf https://github.com/caroheymes/jedha_final_project/blob/master/features_calculation.ipynb
+
+· Evaluation de la contribution des features avec Shapash
+https://github.com/caroheymes/jedha_final_project/blob/master/understand_model_with__shapash.ipynb
 
 ##**Meilleurs modèles**
 
@@ -57,8 +59,10 @@ Nous avons utilisé le package shapash pour évaluer la contribution des feature
 
 ![image](https://user-images.githubusercontent.com/32369680/148120126-1d70cb6a-6136-4bfb-8846-6a8ad6757694.png)
 
+
 **Pour avancer sur le sujet**
-Echangeons aussi sur linkedin
+Echangeons aussi sur linkedin !
+
 https://www.linkedin.com/in/caroline-heymes![image](https://user-images.githubusercontent.com/32369680/148120182-eec04ab3-813c-4ca7-92d1-32c8095e4c86.png)
 
 
