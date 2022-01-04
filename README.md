@@ -39,7 +39,13 @@ Au paradigme de ce projet figurent donc **l'universalité du scope de données, 
 
 · Scraping  de toutes les url => position 100 cf https://github.com/caroheymes/jedha_final_project/tree/master/scrap
 
-· Modélisations, sélection des features : cf https://github.com/caroheymes/jedha_final_project/blob/master/features_calculation.ipynb
+· Modélisations, sélection des features : 
+cf https://github.com/caroheymes/jedha_final_project/blob/master/features_calculation.ipynb 
+
+et  
+
+https://github.com/caroheymes/jedha_final_project/blob/master/model_with_semantic_and_tech_attributes.ipynb
+
 
 · Evaluation de la contribution des features avec Shapash
 https://github.com/caroheymes/jedha_final_project/blob/master/understand_model_with__shapash.ipynb
