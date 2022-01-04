@@ -67,7 +67,6 @@ Nous avons utilisé le package shapash pour évaluer la contribution des feature
 **Pour avancer sur le sujet**
 Echangeons aussi sur linkedin !
 
-https://www.linkedin.com/in/caroline-heymes![image](https://user-images.githubusercontent.com/32369680/148120182-eec04ab3-813c-4ca7-92d1-32c8095e4c86.png)
-
+https://www.linkedin.com/in/caroline-heymes
 
 
