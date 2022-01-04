@@ -1,4 +1,4 @@
-#** Comment ranker sur Google ? Retroengineering des facteurs de ranking**
+#**Comment ranker sur Google ? Retroengineering des facteurs de ranking**
 
 
 Au paradigme de ce projet figurent l'universalité du scope de données, la performance de la collecte et de leur traitement ;  la solidité du modèle d’analyse.
@@ -22,33 +22,39 @@ Très pragmatiquement il s’agit dont d’exploiter ce que les clients cherchen
 
 · Avec ce triptyque « Organic, Paid, Referral » nous disposons donc des métriques homogènes pour détecter les acteurs (y compris les nouveaux entrants) et évaluer, de manière indiscutable, leur performance. Les milliers d’expressions réellement utilisées sur Google par les clients du produit ou service permettent demesurer très rapidement les sites qui trustent le trafic, donc les ventes.
 
-##**Ce paradigme a d’autres atouts :**
+## **Ce paradigme a d’autres atouts :**
 · Rapidité de mise en œuvre quelle que soit la langue ou le pays puisque nous recensons les mots clés et expressions de longue traine qui génèrent le trafic et donc l’activité sur une niche précise
 · Solidité du modèle de détection des acteurs fondé sur la position détenue dans le top 100 des résultats de Google sur ce set de mots clés
 · Sans intermédiaire et donc affranchi des problématiques de confidentialité ou de droit d’exploitation des données de base
 · Immédiatement actionnable car permet de lister les firmes pas forcément identifiées avec lesquelles mettre en place un écosystème profitable à tous avec un plan d’action concret
 
-#**use-Case**
+## **Use-Case :**
+
 Offres d'emploi dans le secteur tertiaire en France
 
-#**Méthodo**
+## **Méthodo**
+
 · 4000 requêtes pour sélectionner les mots clés et volumes
 · Nettoyage Statistique
 · Scraping des positions Google sur 4000 requêtes
 · Scraping  de toutes les url => position 100
 · Modélisations, évaluation et sélection des features sur une problématique de classification "Is top 10"
 
-#**Meilleurs modèles**
+##**Meilleurs modèles**
+
 ![image](https://user-images.githubusercontent.com/32369680/148119779-f1fd19e5-903a-4682-b24c-2f9f58add98e.png)
 
-Matrice de confusion : 
+**Matrice de confusion : **
+
 ![image](https://user-images.githubusercontent.com/32369680/148119839-b0c583eb-7a25-400d-8167-1da4c23d1dca.png)
 
-Features importance:
+**Features importance:**
+
 ![image](https://user-images.githubusercontent.com/32369680/148119969-0bda1602-ad81-42fe-bb71-d59f00e1c4e4.png)
 
 **A noter**
 Nous avons utilisé le package shapash pour évaluer la contribution des features au modèle
+
 ![image](https://user-images.githubusercontent.com/32369680/148120126-1d70cb6a-6136-4bfb-8846-6a8ad6757694.png)
 
 **Pour avancer sur le sujet**
@@ -56,16 +62,4 @@ Echangeons aussi sur linkedin
 https://www.linkedin.com/in/caroline-heymes![image](https://user-images.githubusercontent.com/32369680/148120182-eec04ab3-813c-4ca7-92d1-32c8095e4c86.png)
 
 
-
-
-
-
-
-
-
-
-
-
-
-· Modélisation et sélection des features
 
