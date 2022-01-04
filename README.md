@@ -1,4 +1,4 @@
-#**Comment ranker sur Google ? Retroengineering des facteurs de ranking à l'exemple des annonces emploi**
+# **Comment ranker sur Google ? Retroengineering des facteurs de ranking à l'exemple des annonces emploi**
 
 ![image](https://user-images.githubusercontent.com/32369680/148120962-42c49cc9-c98b-4f3d-b766-eadae22642c8.png)
 
@@ -6,12 +6,13 @@
 
 ## **Contexte**
 
-En octobre 202 Google détenait En France, sur le marché du search une part de marché de 91,4% sur desktop(source statscounter GlobalStats).
+En octobre 202 Google détenait En France, sur le marché du search une part de marché de 91,4% sur desktop (source statscounter GlobalStats).
 
 Les statistiques actuelles montrent que 80% des consommateurs effectuent des recherches en ligne avant et pendant leurs achats et que les recherches par mots clés produisent 3 fois plus de trafic que les réseaux sociaux à eux seuls. 
 
 
 Comme le digital est clé dans le processus d’achat, pour vendre, il faut drainer du trafic qualifié, donc être bien positionné sur les mots clés stratégiques.
+
 **Corollaire** de cette assertion : connaître les mots clés stratégiques permet de bâtir la stratégie d’acquisition. Cette mine d’or sémantique, produite en continu « par la multitude » selon les termes mêmes de Nicolas Colin, alimente nos dispositifs de collecte et d’analyse bientôt automatiques pour proposer des indicateurs actionnables et fiables.
 
 Très pragmatiquement il s’agit dont d’exploiter ce que les clients cherchent, dans quel volume et quelle position. Nous pré-supposons que dans une économie digitale, un acteur à considérer est une firme qui exerce une autorité digitale via:
@@ -22,6 +23,7 @@ Très pragmatiquement il s’agit dont d’exploiter ce que les clients cherchen
 · La performance des medias gagnés qui recouvre la notoriété positive et le trafic ciblé acquis dans le cadre des efforts de promotion éditoriale voire plus prosaiquement des échanges de liens ; ci-après « referral ranking »
 
 · Avec ce triptyque « Organic, Paid, Referral » nous disposons donc des métriques homogènes pour détecter les acteurs (y compris les nouveaux entrants) et évaluer, de manière indiscutable, leur performance. Les milliers d’expressions réellement utilisées sur Google par les clients du produit ou service permettent demesurer très rapidement les sites qui trustent le trafic, donc les ventes.
+
 
 ## **Ce paradigme a d’autres atouts :**
 Au paradigme de ce projet figurent donc **l'universalité du scope de données, la performance de la collecte et de leur traitement ;  la solidité du modèle d’analyse.** et tout particulièrement :
@@ -42,9 +44,11 @@ Au paradigme de ce projet figurent donc **l'universalité du scope de données, 
 · Evaluation de la contribution des features avec Shapash
 https://github.com/caroheymes/jedha_final_project/blob/master/understand_model_with__shapash.ipynb
 
-##**Meilleurs modèles**
+
+## **Meilleurs modèles**
 
 ![image](https://user-images.githubusercontent.com/32369680/148119779-f1fd19e5-903a-4682-b24c-2f9f58add98e.png)
+
 
 **Matrice de confusion : **
 
